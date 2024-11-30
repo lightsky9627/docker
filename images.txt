@@ -1,0 +1,2 @@
+# docker.io to aliyun
+xhofe/alist:v3.40.0|registry.cn-beijing.aliyuncs.com/qiankong/xhofe/alist:v3.40.0
